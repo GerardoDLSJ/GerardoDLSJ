@@ -58,5 +58,5 @@
 <p align="center">  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardodlsj&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"> </p>
 
 ```math
-\ce{$&#x5C;unicode[color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.20; background: url('https://i.gifer.com/PAq.gif') no-repeat center center fixed; background-size: cover;]{x0000}$}
+\ce{$&#x5C;unicode[color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.20; background: url('https://github.com/GerardoDLSJ/GerardoDLSJ/blob/main/backgrounds/mr_meeseks_bg.png') no-repeat center center fixed; background-size: cover;]{x0000}$}
 ```
