@@ -1,7 +1,8 @@
 <h2 align="center"> 💠 Bienvenido seas viajero 💠 </h2>
 
 <p align="center">
-    <img src="https://octodex.github.com/images/adventure-cat.png">
+    <img height="300px" src="https://octodex.github.com/images/adventure-cat.png">
+    <br>
     <img src="https://komarev.com/ghpvc/?username=gerardodlsj&color=blue"/>
 </p>
 
