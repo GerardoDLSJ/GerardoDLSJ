@@ -5,7 +5,7 @@
 </p>
 <br>
 <p align="center">
-    <img height="300px" src="https://octodex.github.com/images/adventure-cat.png">
+    <img height="200px" src="https://octodex.github.com/images/adventure-cat.png">
     <br>
     <img height="22px" src="https://komarev.com/ghpvc/?username=gerardodlsj&color=blue"/>
 </p>
@@ -22,7 +22,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=gerardodlsj&theme=tokyonight"/>
 </p>
 
-<h4 align="center">💻 Lenguajes de programación</h4>
+<h4 align="center">Lenguajes de programación</h4>
 
 <p align="center">
 <a href="https://github.com/search?q=user%3Agerardodlsj1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
@@ -50,7 +50,7 @@
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/Astro-F05033.svg?logo=astro&logoColor=white"></a>
 
-<h4 align="center">Herramientas de software</h4>
+<h4 align="center">Herramientas de Software</h4>
 
 <p align="center">
 <a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white"></a>
