@@ -22,7 +22,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=gerardodlsj&theme=tokyonight"/>
 </p>
 
-<h4 align="center">Lenguajes de programación</h4>
+<h4 align="center">Lenguajes de programación y marcado</h4>
 
 <p align="center">
 <a href="https://github.com/search?q=user%3Agerardodlsj1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
